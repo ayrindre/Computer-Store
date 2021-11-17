@@ -1,0 +1,16 @@
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\ComputerStore\bin\Debug\net5.0\ComputerStore.exe
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\ComputerStore\bin\Debug\net5.0\ComputerStore.deps.json
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\ComputerStore\bin\Debug\net5.0\ComputerStore.runtimeconfig.json
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\ComputerStore\bin\Debug\net5.0\ComputerStore.runtimeconfig.dev.json
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\ComputerStore\bin\Debug\net5.0\ComputerStore.dll
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\ComputerStore\bin\Debug\net5.0\ref\ComputerStore.dll
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\ComputerStore\bin\Debug\net5.0\ComputerStore.pdb
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\ComputerStore\obj\Debug\net5.0\ComputerStore.csproj.AssemblyReference.cache
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\ComputerStore\obj\Debug\net5.0\ComputerStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\ComputerStore\obj\Debug\net5.0\ComputerStore.AssemblyInfoInputs.cache
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\ComputerStore\obj\Debug\net5.0\ComputerStore.AssemblyInfo.cs
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\ComputerStore\obj\Debug\net5.0\ComputerStore.csproj.CoreCompileInputs.cache
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\ComputerStore\obj\Debug\net5.0\ComputerStore.dll
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\ComputerStore\obj\Debug\net5.0\ref\ComputerStore.dll
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\ComputerStore\obj\Debug\net5.0\ComputerStore.pdb
+C:\Users\Farshad\Desktop\C#-samples\tamrin class\ComputerStore\obj\Debug\net5.0\ComputerStore.genruntimeconfig.cache
